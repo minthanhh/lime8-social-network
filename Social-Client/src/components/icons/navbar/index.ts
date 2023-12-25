@@ -1,0 +1,5 @@
+export { default as ComunitySvg } from './Comunity'
+export { default as ExploreSvg } from './Explore'
+export { default as ToptvSvg } from './Toptv'
+export { default as FavoriteSvg } from './Favorite'
+export { default as FeedSvg } from './Feed'

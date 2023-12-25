@@ -1,0 +1,5 @@
+export { default as GallerySvg } from './Gallery'
+export { default as LikeSvg } from './Like'
+export { default as CommentSvg } from './Comment'
+export { default as ShareSvg } from './Share'
+export { default as SmileSvg } from './Smile'
